@@ -1,0 +1,10 @@
+.expo
+.git
+.idea
+app
+assets
+components
+constants
+my-app
+node_modules
+types
